@@ -1,4 +1,4 @@
-module lib-terminal
+module github.com/Lunkov/lib-terminal
 
 go 1.19
 
